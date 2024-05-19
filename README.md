@@ -23,7 +23,7 @@
 ## 先決條件
 
 在開始之前，請確保已經安裝以下軟體和庫：
-
+0. Juypter notebook (也可將代碼貼上.py運行)
 1. Python 3.8.10
 2. Selenium 4.21.0
 3. Chrome 瀏覽器
@@ -83,7 +83,7 @@ i = 1 # 預設是從第一頁開始抓取
 執行腳本
 確保所有依賴項都已安裝並配置正確。
 
-將上述程式碼儲存為一個 Python 檔案，例如 scraper.py。
+將上述程式碼儲存為一個 Python 檔案，例如 topic_verison.ipynb
 
 在命令行中運行該腳本：
 
